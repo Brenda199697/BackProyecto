@@ -1,0 +1,10 @@
+[{"id":1,"title":"Isparta","description":"Description product 1","price":9600,"stock":10},
+{"id":2,"title":"Botas Cot","description":"Description product 2","price":7380,"stock":15},
+{"id":3,"title":"Ride Black","description":"Description product 3","price":7999.99,"stock":20},
+{"id":4,"title":"Velvet","description":"Description product 4","price":18860,"stock":10},
+{"id":5,"title":"Gala","description":"Description product 5","price":14710,"stock":15},
+{"id":6,"title":"Gram","description":"Description product 6","price":3870,"stock":12},
+{"id":7,"title":"Gait","description":"Description product 7","price":12350,"stock":22},
+{"id":8,"title":"Croco Black","description":"Description product 8","price":17230,"stock":10},
+{"id":9,"title":"Blum","description":"Description product 9","price":26350,"stock":20},
+{"id":10,"title":"Blake","description":"Description product 10","price":19500,"stock":15}]
